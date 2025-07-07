@@ -1,0 +1,11 @@
+Nargiz|Aliyeva|+994501234567|nargiz.aliyeva@email.com|61 Ahmadbay Aghaoglu, Baku|1999-05-12|FAMILY|Loves painting
+Aykhan|Ismayilzade|+994502345678|aykhan.ismayilzade@email.com|12 Nobel Ave, Baku|2000-03-22|FRIENDS|Football fan
+Bashir|Safarli|+994503456789|bashir.safarli@email.com|45 Nizami St, Ganja|1998-11-30|WORK|Chess champion
+Leyla|Mammadova|+994504567890|leyla.mammadova@email.com|23 Fuzuli St, Sumqayit|2001-07-15|FRIENDS|Guitarist
+Elvin|Huseynov|+994505678901|elvin.huseynov@email.com|78 Samed Vurgun, Baku|1997-01-05|OTHER|Coffee lover
+Aysel|Aliyev|+994506789012|aysel.aliyev@email.com|9 Azadliq Ave, Baku|2002-09-18|FAMILY|Runner
+Kamran|Rahimov|+994507890123|kamran.rahimov@email.com|34 Huseyn Javid, Sheki|1996-12-25|WORK|Photographer
+Sabina|Guliyeva|+994508901234|sabina.guliyeva@email.com|56 Narimanov, Mingachevir|1999-04-10|FRIENDS|Blogger
+Murad|Ismayilov|+994509012345|murad.ismayilov@email.com|11 Babek Ave, Baku|2000-08-08|OTHER|Cyclist
+Zahra|Karimova|+994501112233|zahra.karimova@email.com|88 Hazi Aslanov, Baku|2001-02-14|FAMILY|Pianist 
+Teresa|Ornelas|+994555252827|teresa@outlook.com|America Seattle|2003-02-27|FAMILY|Hi
