@@ -11,7 +11,7 @@ A creative, modern Contact Management System simulating a phone contacts app. Fe
 ## Team Members
 - Nargiz Aliyeva
 - Aykhan Ismayilzade
-- Bashir Safarli
+- Bashir Ibayev
 
 ## Requirements
 - Java 11 or higher
