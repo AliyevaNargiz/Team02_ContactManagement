@@ -3,7 +3,7 @@ public class Contact {
     private String lastName;
     private String phoneNumber;
     private String email;
-    private String address; // Street + City
+    private String address; 
     private String birthday; // Format: YYYY-MM-DD
     private Group group;
     private String note;
@@ -19,7 +19,6 @@ public class Contact {
         this.note = note;
     }
 
-    // Getters and setters for all fields
     public String getFirstName() { return firstName; }
     public void setFirstName(String firstName) { this.firstName = firstName; }
     public String getLastName() { return lastName; }
