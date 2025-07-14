@@ -1,5 +1,7 @@
 # Team02 Contact Management System
 
+> **Note:** After downloading the zip file, make sure to **unzip** it. Then, **cd into the folder with the same name inside the unzipped directory** (e.g., `cd Team02_PROJECT`) before compiling or running the project. All commands in this README assume you are inside that folder.
+
 ## Overview
 A creative, modern Contact Management System simulating a phone contacts app. Features include:
 - Add, list, search, edit, delete, sort, and filter contacts
